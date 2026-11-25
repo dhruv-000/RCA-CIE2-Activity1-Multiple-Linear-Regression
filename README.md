@@ -49,9 +49,6 @@ RCA-CIE2-Activity1-Multiple-Linear-Regression/
 │   └── Activity1_Multiple_Linear_Regression.ipynb
 ├── outputs/
 │   └── generated_visualizations/
-├── src/
-│   └── regression.py
-├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
@@ -106,10 +103,7 @@ git clone https://github.com/dhruv-000/RCA-CIE2-Activity1-Multiple-Linear-Regres
 cd RCA-CIE2-Activity1-Multiple-Linear-Regression
 pip install -r requirements.txt
 
-# Run the Python script
-python3 src/regression.py
-
-# Or open the Jupyter Notebook
+# Open and run the Jupyter Notebook
 jupyter notebook notebooks/Activity1_Multiple_Linear_Regression.ipynb
 ```
 
