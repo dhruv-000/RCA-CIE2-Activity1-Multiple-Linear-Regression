@@ -1,5 +1,6 @@
 # RCA CIE 2 Activity 1: Multiple Linear Regression — California Housing Price Prediction
 
+**Student Name:** Dhruv Gosavi | **Roll No.:** AD3162 | **Division:** A  
 **Subject:** Regression and Classification Algorithms (RCA) — CIE 2 Activity 1 (Unit I)  
 **Department:** AI & DS (T.Y. B.Tech)  
 **Faculty Submission GitHub:** https://github.com/complexiota  
